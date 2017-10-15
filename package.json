@@ -4,7 +4,7 @@
   "description": "Scrum tracker with React",
   "main": "index.js",
   "scripts": {
-    "babel": "babel index.js --watch --out-file script-compiled.js --presets=es2015,react"
+    "babel": "babel index.js --watch --out-file script-compiled.js"
   },
   "repository": {
     "type": "git",
